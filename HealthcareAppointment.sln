@@ -9,6 +9,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HealthcareAppointment.Data"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HealthcareAppointment.Business", "HealthcareAppointment.Business\HealthcareAppointment.Business.csproj", "{377141F1-8D00-45F0-BEF0-47DCECF83172}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HealthcareAppointment.Models", "HealthcareAppointment.Models\HealthcareAppointment.Models.csproj", "{4F2E3646-E7A6-4655-9623-C7DDE0BABE2C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{377141F1-8D00-45F0-BEF0-47DCECF83172}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{377141F1-8D00-45F0-BEF0-47DCECF83172}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{377141F1-8D00-45F0-BEF0-47DCECF83172}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F2E3646-E7A6-4655-9623-C7DDE0BABE2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F2E3646-E7A6-4655-9623-C7DDE0BABE2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F2E3646-E7A6-4655-9623-C7DDE0BABE2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F2E3646-E7A6-4655-9623-C7DDE0BABE2C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
