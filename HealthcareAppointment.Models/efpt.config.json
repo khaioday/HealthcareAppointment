@@ -1,6 +1,6 @@
 ﻿{
    "CodeGenerationMode": 4,
-   "ContextClassName": "OS\\SQLEXPRESSContext",
+   "ContextClassName": "NWEC_DemoContext",
    "ContextNamespace": null,
    "FilterSchemas": false,
    "IncludeConnectionString": false,
@@ -15,63 +15,7 @@
    "T4TemplatePath": null,
    "Tables": [
       {
-         "Name": "[dbo].[Account]",
-         "ObjectType": 0
-      },
-      {
-         "Name": "[dbo].[Brands]",
-         "ObjectType": 0
-      },
-      {
-         "Name": "[dbo].[Categor]",
-         "ObjectType": 0
-      },
-      {
-         "Name": "[dbo].[Categories]",
-         "ObjectType": 0
-      },
-      {
-         "Name": "[dbo].[Category]",
-         "ObjectType": 0
-      },
-      {
-         "Name": "[dbo].[DiscountCode]",
-         "ObjectType": 0
-      },
-      {
-         "Name": "[dbo].[Feedback]",
-         "ObjectType": 0
-      },
-      {
-         "Name": "[dbo].[Order]",
-         "ObjectType": 0
-      },
-      {
-         "Name": "[dbo].[Order_Details]",
-         "ObjectType": 0
-      },
-      {
-         "Name": "[dbo].[OrderItems]",
-         "ObjectType": 0
-      },
-      {
-         "Name": "[dbo].[Orders]",
-         "ObjectType": 0
-      },
-      {
-         "Name": "[dbo].[product]",
-         "ObjectType": 0
-      },
-      {
-         "Name": "[dbo].[Products]",
-         "ObjectType": 0
-      },
-      {
-         "Name": "[dbo].[Role]",
-         "ObjectType": 0
-      },
-      {
-         "Name": "[dbo].[User]",
+         "Name": "[dbo].[Appointment]",
          "ObjectType": 0
       },
       {
